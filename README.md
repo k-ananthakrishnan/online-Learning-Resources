@@ -9,3 +9,7 @@ collection of all the links for learning software development and more
 
 ## 2. AWS
 - Solutions Architect: https://aws.amazon.com/certification/certified-solutions-architect-associate/
+
+## 3. 100 days of code
+- https://www.100daysofcode.com/
+- https://www.100daysofx.com/
