@@ -13,3 +13,6 @@ collection of all the links for learning software development and more
 ## 3. 100 days of code
 - https://www.100daysofcode.com/
 - https://www.100daysofx.com/
+
+## 4. Google
+- grow with google: https://www.youtube.com/channel/UCpd0xtuhhWwUug1bk84usiA
