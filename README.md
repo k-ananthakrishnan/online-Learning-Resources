@@ -23,5 +23,5 @@ collection of all the links for learning software development and more
 - https://grow.google/intl/en_in/
 
 ## 5.CISCO
--Networking Accadamy: https://www.netacad.com/portal/learning
+- Networking Accadamy: https://www.netacad.com/portal/learning
 - skills for all: https://skillsforall.com/
