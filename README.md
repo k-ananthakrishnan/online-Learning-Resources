@@ -21,6 +21,7 @@ collection of all the links for learning software development and more
 - grow with google: https://www.youtube.com/channel/UCpd0xtuhhWwUug1bk84usiA
 - https://grow.google/grow-your-career/#?dropdown=find%20and%20land%20a%20job%20&filters=&modal_active=none
 - https://grow.google/intl/en_in/
+- google digital garage - https://learndigital.withgoogle.com/digitalgarage/
 
 ## 5.CISCO
 - Networking Accadamy: https://www.netacad.com/portal/learning
