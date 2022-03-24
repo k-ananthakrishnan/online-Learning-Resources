@@ -36,3 +36,11 @@ collection of all the links for learning software development and more
 
 ## 8. 42
 - https://42.fr/en/homepage/
+
+
+
+##
+
+## Additionals
+
+- aws solutions architect challenge: https://training.resources.awscloud.com/get-certified-solutions-architect-associate?trk=a4d2aaca-0280-49c5-a1ad-e54651c7641a&sc_channel=el
