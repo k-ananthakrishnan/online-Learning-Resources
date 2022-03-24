@@ -29,3 +29,9 @@ collection of all the links for learning software development and more
 
 ## 6.Github
 - Learning Lab: https://lab.github.com/
+
+## 7. RedHat
+- Useful Cheat sheets: https://developers.redhat.com/cheat-sheets
+
+## 8. 42
+- https://42.fr/en/homepage/
