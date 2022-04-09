@@ -14,7 +14,7 @@ collection of all the links for learning software development and more
 - AWS Solutions architect sample questions: https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf
 - AWS re/Start: https://aws.amazon.com/training/restart/
 
-## 3. 100 days of code
+## 3. 100 days of x challenge
 - https://www.100daysofcode.com/
 - https://www.100daysofx.com/
 
