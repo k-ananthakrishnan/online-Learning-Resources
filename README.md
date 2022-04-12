@@ -40,6 +40,9 @@ collection of all the links for learning software development and more
 ## 9. 42
 - https://42.fr/en/homepage/
 
+## 10.Linux Foundation
+- trainming anfd certification: https://training.linuxfoundation.org/full-catalog/
+
 
 
 ##
