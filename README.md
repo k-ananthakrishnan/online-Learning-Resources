@@ -34,7 +34,10 @@ collection of all the links for learning software development and more
 ## 7. RedHat
 - Useful Cheat sheets: https://developers.redhat.com/cheat-sheets
 
-## 8. 42
+## 8. Adobe
+- Adobe education exchange: https://edex.adobe.com/
+
+## 9. 42
 - https://42.fr/en/homepage/
 
 
