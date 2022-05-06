@@ -45,6 +45,11 @@ collection of all the links for learning software development and more
 
 
 
+## Learn while it lasts⭐
+- https://learn.cantrill.io/courses/aws-certified-solutions-architect-associate-saa-c02/lectures/14040958
+
+
+
 ##
 
 ## Additionals
