@@ -45,11 +45,6 @@ collection of all the links for learning software development and more
 
 
 
-## Paid aws solutions architect course
-- https://learn.cantrill.io/courses/aws-certified-solutions-architect-associate-saa-c02/lectures/14040958
-
-
-
 ##
 
 ## Additionals
@@ -57,3 +52,5 @@ collection of all the links for learning software development and more
 - aws solutions architect challenge: https://training.resources.awscloud.com/get-certified-solutions-architect-associate?trk=a4d2aaca-0280-49c5-a1ad-e54651c7641a&sc_channel=el
 
 learn Kubernetes: https://www.civo.com/academy?utm_source=kunal&utm_medium=Staff&utm_campaign=kunal-refer
+
+https://learn.cantrill.io/
