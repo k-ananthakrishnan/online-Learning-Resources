@@ -53,4 +53,6 @@ collection of all the links for learning software development and more
 
 learn Kubernetes: https://www.civo.com/academy?utm_source=kunal&utm_medium=Staff&utm_campaign=kunal-refer
 
-https://learn.cantrill.io/
+## Paid aws course
+- https://learn.cantrill.io/courses/aws-certified-solutions-architect-associate-saa-c02/lectures/14040958
+- https://learn.cantrill.io/
