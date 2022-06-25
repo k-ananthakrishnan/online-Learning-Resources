@@ -52,6 +52,8 @@ collection of all the links for learning software development and more
 
 ## Additionals
 
+learn web development free : https://www.theodinproject.com/
+
 - aws solutions architect challenge: https://training.resources.awscloud.com/get-certified-solutions-architect-associate?trk=a4d2aaca-0280-49c5-a1ad-e54651c7641a&sc_channel=el
 
 learn Kubernetes: https://www.civo.com/academy?utm_source=kunal&utm_medium=Staff&utm_campaign=kunal-refer
