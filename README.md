@@ -58,6 +58,7 @@ learn Kubernetes: https://www.civo.com/academy?utm_source=kunal&utm_medium=Staff
 
 learn devops concepts: https://devopscube.com/
 
+postgreSQL learning resource: https://www.postgresqltutorial.com/
 
 ## Paid aws course
 - https://learn.cantrill.io/courses/aws-certified-solutions-architect-associate-saa-c02/lectures/14040958
